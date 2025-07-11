@@ -24,10 +24,10 @@ It includes:
 - HTML5  
 - CSS3  
 - Font Awesome (for icons)  
-- Hosted on [Vercel](https://vercel.com)  
+- Hosted on Vercel  
 
 ---
 
 ## 🚀 Live Demo
 
-🔗 [Visit Live Site](https://your-vercel-link.vercel.app)
+🔗 https://portfoilio-website-hazel.vercel.app/
